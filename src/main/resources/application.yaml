@@ -1,0 +1,11 @@
+csv-parser:
+  classMapping:
+    Person:
+      delimiter: ','
+      fields:
+        name: fullname
+        age: birthDate
+    Car:
+      fields:
+        model: title
+        price: cost

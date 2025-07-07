@@ -1,0 +1,501 @@
+title,city,color,brand,year,owner,vin,isElectric,id,mileage,cost
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000
+Corolla,Kyiv,White,Toyota,2018,Bohdan Yarovyi,JTDBR32E720123456,False,1,85000,20000
+Model 3,Lviv,Red,Tesla,2021,Olena Koval,5YJ3E1EA7MF123456,True,2,30000,44000
+Passat,Kharkiv,Blue,Volkswagen,2016,Andrii Shevchenko,WVWZZZ3CZFE123456,False,3,120000,6000
+i3,Odesa,Gray,BMW,2020,Iryna Lytvyn,WBY1Z4C58GV123456,True,4,40000,25000
+Megane,Ternopil,Black,Renault,2015,Mykola Bondar,VF1BMRCF546123456,False,5,135000,5000
+Leaf,Chernihiv,Green,Nissan,2019,Kateryna Maksymenko,1N4AZ0CP3KC123456,True,6,50000,8000
+A4,Zaporizhzhia,Silver,Audi,2017,Volodymyr Hrytsenko,WAUZZZF43HA123456,False,7,90000,24000
+Ioniq 5,Rivne,White,Hyundai,2022,Anastasiia Zhuk,KM8K33AG0NU123456,True,8,15000,21000
+Focus,Poltava,Blue,Ford,2014,Yurii Krut,WF0DP3TH4EG123456,False,9,160000,9000
+Bolt,Ivano-Frankivsk,Yellow,Chevrolet,2023,Oleh Petriv,1G1FY6S03P4123456,True,10,8000,16000

@@ -1,0 +1,11 @@
+phone,email,taxcode,isEmployed,fullname,surname,id,birthDate,city
++380501112233,bohdan.yarovyi@example.com,11112222,True,Bohdan,Yarovyi,1,23,Kyiv
++380503334455,oleh.petriv@example.com,12345678,False,Oleh,Petriv,2,25,Lviv
++380504445566,andrii.shevchenko@example.com,87654321,True,Andrii,Shevchenko,3,29,Kharkiv
++380505556677,olena.koval@example.com,11223344,True,Olena,Koval,4,34,Dnipro
++380506667788,iryna.lytvyn@example.com,99887766,False,Iryna,Lytvyn,5,22,Odesa
++380507778899,mykola.bondar@example.com,55667788,True,Mykola,Bondar,6,27,Ternopil
++380508889900,kateryna.maksymenko@example.com,44332211,True,Kateryna,Maksymenko,7,24,Chernihiv
++380509990011,volodymyr.hrytsenko@example.com,66778899,False,Volodymyr,Hrytsenko,8,28,Zaporizhzhia
++380501010101,anastasiia.zhuk@example.com,77889900,True,Anastasiia,Zhuk,9,26,Rivne
++380502020202,yurii.krut@example.com,88990011,True,Yurii,Krut,10,31,Poltava
